@@ -1,7 +1,7 @@
 # Image Classifier
 
   Going forward, AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this, you'd use a deep learning model trained on hundreds of thousands of images as part of the overall application architecture. A large part of software development in the future will be using these types of models as common parts of applications.
- 
+
   In this project, you'll train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice, you'd train this classifier, then export it for use in your application. We'll be using this dataset of 102 flower categories.
 
   When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset.
@@ -38,7 +38,7 @@ In order to intall Pytorch head over to the Pytorch site select your specs and f
 ## Viewing the Jyputer Notebook
 In order to better view and work on the jupyter Notebook I encourage you to use [nbviewer](https://nbviewer.jupyter.org/) . You can simply copy and paste the link to this website and you will be able to edit it without any problem. Alternatively you can clone the repository using
 ```
-git clone https://github.com/eculiat/Image-Classifier/
+git clone https://github.com/eculiat/ImageClassifier/
 ```
 then in the command Line type, after you have downloaded jupyter notebook type
 ```
@@ -96,12 +96,12 @@ The checkpoint.pth file contains the information of a network trained to recogni
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/eculiat/Image-Classifier/blob/master/CONTRIBUTING) for the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/eculiat/ImageClassifier/blob/master/CONTRIBUTING) for the process for submitting pull requests.
 
 ## Authors
 
 * **Esteban Culiat** - *Initial work*
 * **Udacity** - *Final Project of the AI with Python Nanodegree*
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/eculiat/Image-Classifier/blob/master/LICENSE) file for details
-![alt text](https://github.com/eculiat/Image-Classifier/blob/master/Certificate-1.JPG)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/eculiat/ImageClassifier/blob/master/LICENSE) file for details
+![alt text](https://github.com/eculiat/ImageClassifier/blob/master/Certificate-1.JPG)
